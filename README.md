@@ -1,5 +1,8 @@
 # Question_IFTHEN
- why gives me Object Allocated !!
+Question was: why gives me Object Allocated !!
+---
+# Answer is:
+https://en.delphipraxis.net/topic/12007-ifthen-strange-return-value/
 
 ![](Result_NotLogic.jpg)
 
